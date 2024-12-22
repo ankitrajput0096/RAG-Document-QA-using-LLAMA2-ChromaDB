@@ -5,7 +5,10 @@
 This project involves creating a Retrieval-Augmented Generation (RAG) system utilizing Meta's Llama 2.0 model, integrated with ChromaDB as the vector store and LangChain. The system demonstrates how to enable efficient document retrieval and question answering (QA) without fine-tuning the Large Language Model (LLM). By leveraging Llama 2.0, LangChain, and ChromaDB, we aim to process and query textual data effectively.
 
 ## RAG Architecture
+### Architecture Overview
 ![RAG_1](./images/RAG_arch_1.png)
+
+### Retriveal Overview
 ![RAG_2](./images/RAG_arch_2.png)
 
 
